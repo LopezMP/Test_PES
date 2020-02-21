@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dc52478-7eaa-4f98-924a-fe31fbd8fa78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y5p9JqfbJYclTeVXwDNGW2FhlJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dc52478-7eaa-4f98-924a-fe31fbd8fa78" name="Default Changelist" comment="" />
+      <created>1582242156767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582242156767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582242235348">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="492" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.720@0.0.1280.720" timestamp="1582242235348" />
+    <state x="511" y="254" key="Github.ShareDialog" timestamp="1582242491409">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="511" y="254" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1582242491409" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1582242545755">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1582242545755" />
+    <state x="341" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1582245513804">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="341" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1582245513804" />
+  </component>
+</project>
