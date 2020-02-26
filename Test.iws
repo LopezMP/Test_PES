@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dc52478-7eaa-4f98-924a-fe31fbd8fa78" name="Default Changelist" comment="" />
+    <list default="true" id="8dc52478-7eaa-4f98-924a-fe31fbd8fa78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/views/Application/sayHello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Application/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Application/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -39,17 +56,25 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="492" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.720@0.0.1280.720" timestamp="1582242235348" />
-    <state x="511" y="254" key="Github.ShareDialog" timestamp="1582242491409">
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1582245848427">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="511" y="254" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1582242491409" />
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1582245848427" />
+    <state x="511" y="254" key="Github.ShareDialog" timestamp="1582245968026">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="511" y="254" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1582245968026" />
+    <state x="420" y="66" key="Github.UntrackedFilesDialog" timestamp="1582246048622">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="420" y="66" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1582246048622" />
     <state x="142" y="3" key="SettingsEditor" timestamp="1582242545755">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1582242545755" />
-    <state x="341" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1582245513804">
+    <state x="341" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1582754212258">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="341" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1582245513804" />
+    <state x="341" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1582754212258" />
   </component>
 </project>

@@ -1,4 +1,7 @@
 #{extends 'main.html' /}
 #{set title:'Home' /}
 
-#{welcome /}
+<form action="@{Application.sayHello()}" method="GET">
+    <input type="text" name="myName" /> <!--insertar nombre que se va a llamar myNanme-->
+    <input type="submit" value="Say hello!" />
+</form>
