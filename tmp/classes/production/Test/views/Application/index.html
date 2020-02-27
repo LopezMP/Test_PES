@@ -1,0 +1,28 @@
+#{extends 'main.html' /}
+#{set title:'Home' /}
+
+
+
+<form action="@{Application.sayHello()}" method="GET">
+    <div class = "container center">
+        <div class="form-inline center" >
+
+            <div class="input-group">
+                <input type="text" name="myName" size="100%" class="form-control" placeholder="Escriu el teu nom per personalitzar la benvinguda" style="text-align: center">
+            </div>
+
+            <div class="input-grou-btn">
+                <input type="submit" class="btn btn-info" value="Personalitzar">
+            </div>
+
+            #{if flash.error}
+            <div class="alert alert-danger alert-dismissible fade show center">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                ${flash.error}
+            </div>
+            #{/if}
+
+        </div>
+    </div>
+
+</form>

@@ -1,0 +1,10 @@
+#{extends 'main.html' /}
+#{set title:'Home' /}
+
+<!--
+<h1>Hello ${myName ?: 'guest'}!</h1> el ?: sirve para meter un parametro predeterminado, en este caso "guest", por si myName es null-->
+
+<div class="jumbotron jumbotron1 text-center">
+    <h1>Hello ${myName}!</h1>
+    <a href="@{Application.index()}">Tornar</a>
+</div>
