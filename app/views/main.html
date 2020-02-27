@@ -6,9 +6,26 @@
         <meta charset="${_response_encoding}">
         <link rel="stylesheet" media="screen" href="@{'/public/stylesheets/main.css'}">
         #{get 'moreStyles' /}
-        <link rel="shortcut icon" type="image/png" href="@{'/public/images/favicon.png'}">
+
+<!--personalització-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+        <!-- sirve por si se quiere cambiar el fondo del jumbotron que por defecto es gris -->
+        <style>
+        .jumbotron1{
+            background-color: grey;
+        }
+        </style>
     </head>
     <body>
+
+    <div class="jumbotron text-center ">
+        <h1>BENVINGUTS!</h1>
+        <p class="text-secondary">Primer projecte en Play! java</p>
+    </div>
         #{doLayout /}
         
         <script src="@{'/public/javascripts/jquery-1.6.4.min.js'}" type="text/javascript" charset="${_response_encoding}"></script>
