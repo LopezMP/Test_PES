@@ -6,6 +6,8 @@
 GET     /                                       Application.index
 # Hello page
 GET     /heLLo                                  Application.sayHello
+# Creació nou equip
+GET     /newEquip                               Application.newEquips
 # Ignore favicon requests
 GET     /favicon.ico                            404
 

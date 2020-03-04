@@ -8,9 +8,11 @@ public class Jugador extends Model {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
+
     private String nom;
     private int edat;
     private String dni;
+
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "equip_id")          //Foreign key
     private Equip equip;
