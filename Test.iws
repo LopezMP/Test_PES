@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc52478-7eaa-4f98-924a-fe31fbd8fa78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/models/Equip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Equip.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Equip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Jugador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/BasicTest.class.passed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/TEST-ApplicationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-result/TEST-ApplicationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/TEST-BasicTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-result/TEST-BasicTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/test-result/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-result/result.passed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/BasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/BasicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/BasicTest" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/BasicTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Equip" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Equip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Jugador" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Jugador" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/BasicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/BasicTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/models/Equip.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/models/Equip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/models/Jugador.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/models/Jugador.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +48,34 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RunManager" selected="JUnit.BasicTest.crearEquipAndAfegirJugador">
+    <configuration name="BasicTest.crearEquipAndAfegirJugador" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicTest" />
+      <option name="METHOD_NAME" value="crearEquipAndAfegirJugador" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTest.trobarJugador" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicTest" />
+      <option name="METHOD_NAME" value="trobarJugador" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BasicTest.crearEquipAndAfegirJugador" />
+        <item itemvalue="JUnit.BasicTest.trobarJugador" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -50,10 +90,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1582981559624">
+    <state x="446" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1583336791289">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="446" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1582981559624" />
+    <state x="446" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1583336791289" />
     <state x="492" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582242235348">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -70,13 +110,56 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="420" y="66" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1582246048622" />
+    <state width="1237" height="148" key="GridCell.Tab.0.bottom" timestamp="1583061751677">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="148" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1583061751677" />
+    <state width="1237" height="148" key="GridCell.Tab.0.center" timestamp="1583061751677">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="148" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1583061751677" />
+    <state width="1237" height="148" key="GridCell.Tab.0.left" timestamp="1583061751677">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="148" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1583061751677" />
+    <state width="1237" height="148" key="GridCell.Tab.0.right" timestamp="1583061751677">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="148" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1583061751677" />
+    <state width="1237" height="148" key="GridCell.Tab.1.bottom" timestamp="1583061751550">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="148" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1583061751550" />
+    <state width="1237" height="148" key="GridCell.Tab.1.center" timestamp="1583061751550">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="148" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1583061751550" />
+    <state width="1237" height="148" key="GridCell.Tab.1.left" timestamp="1583061751550">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="148" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1583061751550" />
+    <state width="1237" height="148" key="GridCell.Tab.1.right" timestamp="1583061751550">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="148" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1583061751550" />
     <state x="142" y="3" key="SettingsEditor" timestamp="1582242545755">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1582242545755" />
-    <state x="341" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1582980291642">
+    <state x="341" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1583333917123">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="341" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1582980291642" />
+    <state x="341" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1583333917123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/controllers/Application.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
