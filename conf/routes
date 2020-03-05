@@ -8,6 +8,9 @@ GET     /                                       Application.index
 GET     /heLLo                                  Application.sayHello
 # Creació nou equip
 GET     /newEquip                               Application.newEquips
+
+# Creació newjugador
+GET     /newJugador                               Application.newJugador
 # Ignore favicon requests
 GET     /favicon.ico                            404
 

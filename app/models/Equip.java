@@ -8,13 +8,9 @@ import java.util.List;
 
 @Entity
 public class Equip extends Model {
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
-
-    @OneToMany(fetch = FetchType.LAZY, mappedBy = "equip")
+/*    @OneToMany(fetch = FetchType.LAZY, mappedBy = "equip")
     private List<Jugador> jugadors;
-
+*/
     private String nom;
     private String nomEstadi;
 

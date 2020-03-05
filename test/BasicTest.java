@@ -1,3 +1,4 @@
+import controllers.Application;
 import org.junit.*;
 import java.util.*;
 import play.test.*;
@@ -13,6 +14,7 @@ public class BasicTest extends UnitTest {
     @Test
     public void afegirNouJugador() {
         // Create a new user and save it
+      //  Application.newEquips("Marie", 20, "12345678R");
         new Jugador("Marie", 20, "45121232R").save();
         //Trobar jugador
         Jugador jugador= Jugador.find("byNom", "Marie").first();

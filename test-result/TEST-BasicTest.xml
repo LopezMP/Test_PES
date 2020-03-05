@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<testsuite failures="0" time="0.317" errors="0" skipped="0" tests="3" name="BasicTest">
-  <testcase classname="BasicTest" name="crearEquipAndAfegirJugador" time="0.301">
+<testsuite failures="0" time="0.009" errors="0" skipped="0" tests="3" name="BasicTest">
+  <testcase classname="BasicTest" name="crearEquipAndAfegirJugador" time="0.005">
       </testcase>
-  <testcase classname="BasicTest" name="afegirNouJugador" time="0">
+  <testcase classname="BasicTest" name="afegirNouJugador" time="0.002">
       </testcase>
-  <testcase classname="BasicTest" name="trobarJugador" time="0.016">
+  <testcase classname="BasicTest" name="trobarJugador" time="0.002">
       </testcase>
 </testsuite>

@@ -11,7 +11,6 @@ import models.*;
 public class Application extends Controller {
 
     public static void index() {
-
         render();
     }
 
@@ -23,7 +22,23 @@ public class Application extends Controller {
         render(myName);
     }
 
-    public static void newEquips(){
+    public static void newEquips(@Required String name, @Required int edat, @Required String dni){
+        if(validation.hasErrors()) {
+        flash.error("Oops... Falten paràmetres :)");
+        }
+
+        new Jugador(name, edat, dni).save();
+        flash.success("Registrat!");
         render();
     }
+
+    /*public static void newJugador(@Required String name, @Required int edat, @Required String dni){
+        if(validation.hasErrors()) {
+            flash.error("Oops... Falten paràmetres :)");
+        }
+
+        new Jugador(name, edat, dni).save();
+        flash.success("Registrat!");
+        newEquips();
+    }*/
 }
